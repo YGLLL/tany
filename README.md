@@ -10,7 +10,8 @@
 <br>tany用到的jar包在"./lib"下
 
 <br>3.
-<br>目前tany还很弱小，你需要先抓到一个包，再从包中提取出Cookie和url
+<br>目前tany还很弱小
+<br>你需要先抓到一个包，再从包中提取出Cookie和url
 <br>并传给tany，然后才能开始运行
 <br>你需要和YGL交流
 
